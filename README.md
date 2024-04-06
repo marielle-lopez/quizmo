@@ -1,6 +1,6 @@
 # Quizmo
 
-## Work Log
+## Changelog
 
 ### 29 March 2024
 
